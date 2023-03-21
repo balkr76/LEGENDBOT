@@ -42,7 +42,7 @@
     },
     "API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "",
+      "value": "cddd4326-4836-449b-8807-4c9175124c08",
       "required": false
     },
     "APP_NAME": {
